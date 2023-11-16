@@ -9,5 +9,4 @@ Idée de plan :
 
 
 
-Issues > new issue
-https://upload.wikimedia.org/wikipedia/commons/f/fc/Guide_michelin_1929_couverture-edit.png
+![image](https://github.com/Amiralvian/Guide-Michelin/assets/150702550/e4d493db-c38f-4ec2-b5cd-f366f864f1c6)
